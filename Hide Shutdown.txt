@@ -1,0 +1,9 @@
+Click on Start Menu and Type regedit or Press Win + R and type regedit to open Registry Editor.
+
+Goto:
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Start\HideShutDown
+
+Open the key that says value and change it to 1.
+
+Your Shutdown option is now removed for everyone, but all other options are still there. This includes the sign on screen, and Alt+Ctrl+Del screen.
